@@ -53,8 +53,14 @@ VLAN | Имя | Название инетрфейса
 <img width="397" height="48" alt="image" src="https://github.com/user-attachments/assets/4c483187-8059-4b90-bc74-b17d4c58eb5d" />  
 
 **Настройка удаленного доступа**  
-<img width="583" height="739" alt="image" src="https://github.com/user-attachments/assets/43e5f2ef-a3e7-4515-bf24-c0f28824eccc" />  
-<img width="618" height="605" alt="image" src="https://github.com/user-attachments/assets/fa60bc26-a6b7-4ece-8ae5-879c1ea177e6" />
+
+
+
+**Эхо запрос/ответ**  
+<img width="490" height="449" alt="image" src="https://github.com/user-attachments/assets/b592132e-63a5-49ea-b5ff-81b5411cb3fc" />  
+<img width="502" height="668" alt="image" src="https://github.com/user-attachments/assets/3160b379-ccad-4005-9fe1-1a5bac3c833b" />  
+
+
 
 
 
