@@ -33,12 +33,36 @@ VLAN | Имя | Название инетрфейса
 
 **Базовая настройка маршрутизатора**  
 <img width="495" height="720" alt="image" src="https://github.com/user-attachments/assets/e692d2cb-b88b-4811-94c9-e47db0bee131" />  
-**Базовая настройка маршрутизатора**  
+**Базовая настройка коммутатора**  
 <img width="499" height="694" alt="image" src="https://github.com/user-attachments/assets/fc209d25-ed8e-4834-af63-49a790911f1c" />  
 
 **Настройка сетей VLAN на коммутаторах**  
 <img width="293" height="449" alt="image" src="https://github.com/user-attachments/assets/40132f6a-881d-420e-9eb0-ad0e24679c83" />  
 <img width="675" height="832" alt="image" src="https://github.com/user-attachments/assets/7c7cdc8b-f0a8-4109-9e97-fe9cdb95a2f6" />  
+<img width="660" height="320" alt="image" src="https://github.com/user-attachments/assets/b268ff65-5b7e-4fc6-a60d-2e4f4b0fea65" />  
+
+**Настройка транка (магистрального канала)**  
+<img width="626" height="425" alt="image" src="https://github.com/user-attachments/assets/619e0935-5118-43a8-8fb6-4c936faf90ac" />  
+<img width="476" height="267" alt="image" src="https://github.com/user-attachments/assets/fe5f3139-f8bb-4f17-873f-246fa9b7ef78" />  
+<img width="560" height="669" alt="image" src="https://github.com/user-attachments/assets/4938d50c-40f8-4ce3-9e38-9118b294b198" />  
+
+**Настройка маршрутизации между сетями VLAN на R1**  
+<img width="643" height="707" alt="image" src="https://github.com/user-attachments/assets/72d6118b-10dc-4135-a4d5-7233e7de8c38" />  
+<img width="667" height="207" alt="image" src="https://github.com/user-attachments/assets/c66e7e1c-80ae-43ff-97aa-45635c105d02" />  
+<img width="732" height="216" alt="image" src="https://github.com/user-attachments/assets/2fb63091-2baf-40b1-ab34-ee535d5a4a4b" />  
+<img width="397" height="48" alt="image" src="https://github.com/user-attachments/assets/4c483187-8059-4b90-bc74-b17d4c58eb5d" />  
+
+**Настройка удаленного доступа**  
+<img width="583" height="739" alt="image" src="https://github.com/user-attachments/assets/43e5f2ef-a3e7-4515-bf24-c0f28824eccc" />  
+<img width="618" height="605" alt="image" src="https://github.com/user-attachments/assets/fa60bc26-a6b7-4ece-8ae5-879c1ea177e6" />
+
+
+
+
+
+
+
+
 
 
 
