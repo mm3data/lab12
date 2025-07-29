@@ -62,22 +62,38 @@ VLAN | Имя | Название инетрфейса
 <img width="703" height="414" alt="image" src="https://github.com/user-attachments/assets/2db15b58-49fc-4f81-8510-4da630e57188" />   
 <img width="515" height="192" alt="image" src="https://github.com/user-attachments/assets/d75630df-7a3a-4736-97b3-cc8acaa601e4" />
 
-**Настройка и проверка списков контроля доступа (ACL)**  
-<img width="639" height="667" alt="image" src="https://github.com/user-attachments/assets/cf98d87a-e688-4b3c-89e5-18d5eb0e4d72" />  
-<img width="542" height="92" alt="image" src="https://github.com/user-attachments/assets/f8aa8818-cb7e-4ead-b140-448f6df61683" />  
-<img width="358" height="664" alt="image" src="https://github.com/user-attachments/assets/3ae83a6c-35c2-4076-b2b9-39d926b5052d" />  
-<img width="501" height="202" alt="image" src="https://github.com/user-attachments/assets/72707712-c5de-4287-bc57-eaef802050d9" />  
+**Настройка и проверка списков контроля доступа (ACL)**      
+    
+  <img width="624" height="338" alt="image" src="https://github.com/user-attachments/assets/55ff4863-0c4c-4a68-8936-6e818733094e" />
 
-**Выполняем следующие тесты**  
-<img width="699" height="619" alt="image" src="https://github.com/user-attachments/assets/266015c2-8b00-49c0-9539-dfc1a29d3f74" />  
-<img width="576" height="626" alt="image" src="https://github.com/user-attachments/assets/25d3282c-590e-467f-8084-5f546f84246d" />  
-<img width="699" height="179" alt="image" src="https://github.com/user-attachments/assets/96576a93-f867-4d8c-9a67-6027723ecea6" />  
-<img width="696" height="214" alt="image" src="https://github.com/user-attachments/assets/1889c71e-751c-4ff3-a034-1a8df598ed9f" />  
-<img width="343" height="87" alt="image" src="https://github.com/user-attachments/assets/4c433b22-99ed-4744-8774-09e49b234534" />   
-<img width="626" height="325" alt="image" src="https://github.com/user-attachments/assets/01937a4a-3308-41f1-bf49-55c2d6768a11" />  
-<img width="626" height="206" alt="image" src="https://github.com/user-attachments/assets/5fd51489-eb03-49a5-868f-18b99e18eb38" />    
-<img width="411" height="59" alt="image" src="https://github.com/user-attachments/assets/2486d156-a808-4207-aabb-9162b02438d6" />        
-<img width="363" height="162" alt="image" src="https://github.com/user-attachments/assets/01a8265d-3521-4528-bcee-1029076b6153" />    
+
+**Выполняем следующие команды**  
+
+_РС-А Ping 10.40.0.10  сбой_   
+<img width="541" height="256" alt="image" src="https://github.com/user-attachments/assets/19e82fca-a9e0-46fc-a98e-5eb3235621da" />  
+_PC_A Ping 10.20.0.1 успех_  
+<img width="487" height="261" alt="image" src="https://github.com/user-attachments/assets/197fcc6e-bca9-4dd2-8c9f-d4588ce4cbe9" />  
+_PC-B Ping 10.30.0.10 сбой_   
+<img width="484" height="237" alt="image" src="https://github.com/user-attachments/assets/c2ac3bbd-a6c8-4c82-98b0-401eaadae391" />  
+_PC-B Ping 10.20.0.1 сбой_  
+<img width="487" height="210" alt="image" src="https://github.com/user-attachments/assets/b873e059-3d1b-4895-ba32-4390893d7178" />  
+_PC-B Ping 172.16.1.1 Успех_  
+<img width="463" height="227" alt="image" src="https://github.com/user-attachments/assets/57906166-229d-4e2a-b2c1-120af7187abb" />  
+_PC-B https 10.20.0.1 сбой_  
+<img width="695" height="178" alt="image" src="https://github.com/user-attachments/assets/602a1f23-9f34-4426-b3a9-400dde34919a" />  
+_PC-B https 172.16.1.1 успех_   
+нет успеха(   
+_PC-B SSH 10.20.0.4 сбой, а у меня успех)_  
+<img width="407" height="139" alt="image" src="https://github.com/user-attachments/assets/0e31908f-0713-4172-ad17-cd60b76843c1" />  
+_PC-B SSH 172.16.1.1 Успех_  
+<img width="434" height="219" alt="image" src="https://github.com/user-attachments/assets/c225ace5-5561-4afb-b1ab-2e4590fb864a" />  
+
+
+
+
+
+
+
 
 
 
