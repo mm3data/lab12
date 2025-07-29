@@ -64,7 +64,11 @@ VLAN | Имя | Название инетрфейса
 
 **Настройка и проверка списков контроля доступа (ACL)**      
     
-  <img width="624" height="338" alt="image" src="https://github.com/user-attachments/assets/55ff4863-0c4c-4a68-8936-6e818733094e" />
+  <img width="383" height="570" alt="image" src="https://github.com/user-attachments/assets/32a316b1-f9e0-47aa-90c8-b21497462312" />  
+  <img width="476" height="247" alt="image" src="https://github.com/user-attachments/assets/061a2dba-4858-4397-8b94-7ceb41207c45" />  
+  <img width="532" height="294" alt="image" src="https://github.com/user-attachments/assets/417da9e9-cb53-4bb8-aded-fa27b09f89b0" />
+
+
 
 
 **Выполняем следующие команды**  
@@ -80,11 +84,11 @@ _PC-B Ping 10.20.0.1 сбой_
 _PC-B Ping 172.16.1.1 Успех_  
 <img width="463" height="227" alt="image" src="https://github.com/user-attachments/assets/57906166-229d-4e2a-b2c1-120af7187abb" />  
 _PC-B https 10.20.0.1 сбой_  
-<img width="695" height="178" alt="image" src="https://github.com/user-attachments/assets/602a1f23-9f34-4426-b3a9-400dde34919a" />  
-_PC-B https 172.16.1.1 успех_   
-нет успеха(   
-_PC-B SSH 10.20.0.4 сбой, а у меня успех)_  
-<img width="407" height="139" alt="image" src="https://github.com/user-attachments/assets/0e31908f-0713-4172-ad17-cd60b76843c1" />  
+ <img width="668" height="152" alt="image" src="https://github.com/user-attachments/assets/63fc8220-3d88-4af6-83ee-cc3ac47ea45b" />   
+_PC-B https 172.16.1.1 _   
+<img width="678" height="237" alt="image" src="https://github.com/user-attachments/assets/e3cfa465-7587-444a-8136-ab8b6e5b78bc" />  
+_PC-B SSH 10.20.0.4 сбой_    
+<img width="473" height="119" alt="image" src="https://github.com/user-attachments/assets/cf104f2d-f6f5-4a93-9154-43fb915cf185" />  
 _PC-B SSH 172.16.1.1 Успех_  
 <img width="434" height="219" alt="image" src="https://github.com/user-attachments/assets/c225ace5-5561-4afb-b1ab-2e4590fb864a" />  
 
